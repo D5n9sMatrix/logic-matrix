@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/Projects/logic-matrix/matrix/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/logic-matrix.dir/logic-matrix.cpp.o -c /home/denis/Projects/logic-matrix/matrix/logic-matrix.cpp",
+  "file": "/home/denis/Projects/logic-matrix/matrix/logic-matrix.cpp"
+}
+]

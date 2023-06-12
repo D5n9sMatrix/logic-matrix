@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblogic-matrix.a CMakeFiles/logic-matrix.dir/logic-matrix.cpp.o
+/usr/bin/ranlib liblogic-matrix.a
